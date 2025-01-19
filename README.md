@@ -81,7 +81,4 @@ Labels : [ICIMOD](http://www.icimod.org/)
 - [**U-Net**](https://arxiv.org/abs/1505.04597) with **dropout (default dropout rate is 0.2)**.
 
 
-## Inspiration
-
-- This is the reimplementation of workdone by **Kris Sankaran**.
 
